@@ -6,7 +6,7 @@ On roughly the 7th of May 2022 I decided I wanted to pursue a career in health a
 
 I have no formal experience as an analyst. So the aim of this portfolio is to show that I am indeed capable of analytical thinking, proficient in the basics of SQL, and am capable of working in a team in the hopes of landing an analyst job.
 
-### A bit about me
+## A bit about me
 
 I'm in my third and final year as a student at The University of Waikato double majoring in both community health and human performance science, set to graduate this upcoming November. I also work part time as a Community Health Services Administrator at St John New Zealand.
 
