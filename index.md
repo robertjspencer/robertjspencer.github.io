@@ -1,4 +1,4 @@
-#Introduction
+# Introduction
 
 This portfolio is a collection of my own SQL projects and anything related to analytics including appropriate university coursework. 
 
