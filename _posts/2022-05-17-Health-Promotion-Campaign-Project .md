@@ -4,4 +4,4 @@ For CMYHE201 - 'Healthy Lifestyles and Healthy Communities', which I took B trim
 
 My partner, Precious Brown, and I's chosen health promotion campaign topic was Asian elderly's high suicide rates here in Aotearoa.
 
-Here is a YouTube video of the presentation: https://www.youtube.com/watch?v=JHcI2pF7-Rw. We received an A+ for this presentation.
+Here is a YouTube video of the presentation: [https://www.youtube.com/watch?v=JHcI2pF7-Rw](url). We received an A+ for this presentation.
