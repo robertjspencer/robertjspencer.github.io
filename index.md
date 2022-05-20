@@ -1,10 +1,8 @@
 # Introduction
 
-This portfolio is a work in progress collection of my own SQL projects and anything related to analytics or health including appropriate university coursework. 
+On the 7th of May 2022 I decided I wanted to pursue a career in health analytics, after starting a qualitative analysis project of Long COVID Facebook posts for one of my university courses, CMYHE302 - 'Health in the Digital Era', sparking my interest in the field.
 
-On roughly the 7th of May 2022 I decided I wanted to pursue a career in health analytics, after starting a qualitative analysis project of Long COVID Facebook posts for one of my university courses, CMYHE302 - 'Health in the Digital Era', sparking my interest in the field.
-
-I have no formal experience as an analyst. So the aim of this portfolio is to show that I am indeed capable of analytical thinking, proficient in the basics of SQL, and am capable of working in a team in the hopes of landing an analyst job.
+I have no formal experience as an analyst. So the aim of this portfolio is to show that I am indeed capable of analytical and critical thinking, capable of learning and using the technical skills required, and am capable of working in a team in the hopes of landing an analyst job.
 
 ## A bit about me
 
