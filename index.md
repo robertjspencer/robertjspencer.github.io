@@ -2,7 +2,7 @@
 
 On the 7th of May 2022 I decided I wanted to pursue a career in health analytics, after starting a qualitative analysis project of Long COVID Facebook posts for one of my university courses, [CMYHE302 - 'Health in the Digital Era'](https://papers.waikato.ac.nz/papers/2022/CMYHE302), sparking my interest in the field.
 
-I have no formal experience as an analyst. So the aim of this portfolio is to show that I: am capable of analytical and critical thinking, have the soft skills necessary for the position, and am learning and using the technical skills required.
+I have no formal experience as an analyst. So the aim of this portfolio is to show that I: am capable of analytical and critical thinking, have the soft skills necessary for the position, and am learning and using the technical skills required - hopefully to land an analyst job.
 
 ## A bit about me
 
