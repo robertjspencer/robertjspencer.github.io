@@ -1,1 +1,3 @@
-## ![University of Waikato Transcript](Academic Transcript (Waikato).pdf)
+## University of Waikato Transcript
+
+![University of Waikato Transcript](Academic Transcript (Waikato).pdf)
