@@ -11,7 +11,7 @@ Unfortunately I couldn't find any raw data regarding equity in athletics here in
 ![image](https://user-images.githubusercontent.com/105367716/169646391-d8b1949e-2f69-4cbb-83ee-772d76143e0e.png)
 
 
-#### Select 2021 only and then click on 'All data combined for academic year 2020-2021 to download the data
+#### Next untick all of the boxes except '2021', and then click on 'All data combined for academic year 2020-2021 to download the data
 
 ![image](https://user-images.githubusercontent.com/105367716/169646224-80e0ef60-9172-4927-adaa-3f0df8c8dc79.png)
 
