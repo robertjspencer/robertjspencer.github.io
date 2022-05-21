@@ -9,5 +9,4 @@ For my first personal project using SQL I've decided to look at data relating to
 
 
 ##### Next you'll want to scroll down the page a little bit and click on 'All data combined for academic year 2020-21'
-![image](https://user-images.githubusercontent.com/105367716/169646799-462b4ecd-2037-4e30-8e48-d1140aa421d0.png)
-
+![image](https://user-images.githubusercontent.com/105367716/169646863-24e31939-b401-4c8b-a203-c57f6120ccee.png)
