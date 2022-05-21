@@ -13,3 +13,4 @@ For my first personal project using SQL I've decided to look at data relating to
 
 #### You'll proceed to download the .zip file 'EADA_All_Data_Combined_2020-2021_SAS_SPSS_EXCEL'. Go ahead and open it up and you'll see something similar below.
 ![image](https://user-images.githubusercontent.com/105367716/169647205-fd89b535-266c-4577-9d40-da28fde31116.png)
+#### Voila. Here you'll find a .doc file explaining each columns type and information held, as well as a .xlsx file which is the dataset we'll be using for this analysis
