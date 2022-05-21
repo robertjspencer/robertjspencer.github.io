@@ -4,10 +4,10 @@ For my first personal project using SQL I've decided to look at data relating to
 
 [Here](https://ope.ed.gov/athletics/#/) is a link to the public dataset I've used, provided by the U.S. Department of Education.
 
-#### To download the data yourself first click on 'Download Data'
+##### To download the data yourself first click on 'Download Data'
 ![image](https://user-images.githubusercontent.com/105367716/169646391-d8b1949e-2f69-4cbb-83ee-772d76143e0e.png)
 
 
-#### Next you'll want to scroll down the page a little bit and click on 'All data combined for academic year 2020-21'
-![image](https://user-images.githubusercontent.com/105367716/169646593-f13862f9-7980-4b5b-9fdc-aab55ee03245.png)
+##### Next you'll want to scroll down the page a little bit and click on 'All data combined for academic year 2020-21'
+![image](https://user-images.githubusercontent.com/105367716/169646799-462b4ecd-2037-4e30-8e48-d1140aa421d0.png)
 
