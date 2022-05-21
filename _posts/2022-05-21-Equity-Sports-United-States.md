@@ -10,3 +10,6 @@ For my first personal project using SQL I've decided to look at data relating to
 
 #### Next you'll want to scroll down the page a little bit and click on 'All data combined for academic year 2020-21'
 ![image](https://user-images.githubusercontent.com/105367716/169646976-e51b6001-38ea-448f-ac82-66f8e5e8fbec.png)
+
+You'll proceed to download a .zip file 'EADA_All_Data_Combined_2020-2021_SAS_SPSS_EXCEL'. Go ahead and open it up and you'll see something like below.
+![image](https://user-images.githubusercontent.com/105367716/169647205-fd89b535-266c-4577-9d40-da28fde31116.png)
