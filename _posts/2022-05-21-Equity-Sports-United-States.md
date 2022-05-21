@@ -7,11 +7,9 @@ Unfortunately I couldn't find any raw data regarding equity in athletics here in
 [Here](https://ope.ed.gov/athletics/#/) is a link to the public dataset I've used, provided by the U.S. Department of Education.
 
 #### To download the data yourself first click on 'Download Data'
-
 ![image](https://user-images.githubusercontent.com/105367716/169646391-d8b1949e-2f69-4cbb-83ee-772d76143e0e.png)
 
 
-#### Next untick all of the boxes except '2021', and then click on 'All data combined for academic year 2020-21' to download the data
-
-![image](https://user-images.githubusercontent.com/105367716/169646224-80e0ef60-9172-4927-adaa-3f0df8c8dc79.png)
+#### Next you'll want to scroll down the page a little bit and click on 'All data combined for academic year 2020-21'
+![image](https://user-images.githubusercontent.com/105367716/169646593-f13862f9-7980-4b5b-9fdc-aab55ee03245.png)
 
