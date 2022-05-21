@@ -7,6 +7,7 @@ Unfortunately I couldn't find any raw data regarding equity in athletics here in
 [Here](https://ope.ed.gov/athletics/#/) is a link to the public dataset I've used, provided by the U.S. Department of Education.
 
 To download the data yourself first click on 'Download Data'. 
+
 ![image](https://user-images.githubusercontent.com/105367716/169646164-272cafcb-57ad-4853-bf2a-0a2d85a169d6.png)
 
 
