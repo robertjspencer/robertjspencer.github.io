@@ -9,6 +9,7 @@ Unfortunately I couldn't find any raw data regarding equity in athletics here in
 To download the data yourself first click on 'Download Data'. 
 ![image](https://user-images.githubusercontent.com/105367716/169646164-272cafcb-57ad-4853-bf2a-0a2d85a169d6.png)
 
+
 Select 2021 only. And then click on 'All data combined for academic year 2020-2021 to download the data.
 ![image](https://user-images.githubusercontent.com/105367716/169646224-80e0ef60-9172-4927-adaa-3f0df8c8dc79.png)
 
