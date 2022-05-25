@@ -8,7 +8,7 @@ For my last question for that post, I asked, 'What are the top 10 states by deat
 
 As seen above, 9 out of the top 10 states by death:population ratio were Democrat governed sates. This was surprising due to how Republicans have questionably handled the pandemic since it began including the promotion of misinformation [[1]](https://www.nytimes.com/2020/09/30/us/politics/trump-coronavirus-misinformation.html)[[1]](https://www.theatlantic.com/politics/archive/2020/11/trumps-lies-about-coronavirus/608647/)[[1]](https://abcnews.go.com/Health/wireStory/gop-state-lawmakers-spread-covid-19-misinformation-76166298)[[1]](https://www.washingtonpost.com/politics/2021/09/14/florida-desantis-vaccine-misinformation-rna/)
 
-disregard of health professionals [[1]](https://www.washingtonpost.com/national/coronavirus-ravaged-florida-as-ron-desantis-sidelined-scientists-and-followed-trump/2020/07/25/0b8008da-c648-11ea-b037-f9711f89ee46_story.html) 
+ignoring health and medical professionals [[1]](https://www.nature.com/articles/d41586-020-03035-4)[[1]](https://www.washingtonpost.com/national/coronavirus-ravaged-florida-as-ron-desantis-sidelined-scientists-and-followed-trump/2020/07/25/0b8008da-c648-11ea-b037-f9711f89ee46_story.html) 
 
 lack of public health measures [[1]](https://www.texastribune.org/2021/08/06/texas-greg-abbott-covid-restrictions/) 
 
