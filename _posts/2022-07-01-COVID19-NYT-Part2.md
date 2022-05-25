@@ -10,7 +10,7 @@ As seen above, 9 out of the top 10 states by death:population ratio were Democra
 
 ignoring health and medical professionals [[1]](https://www.nature.com/articles/d41586-020-03035-4)[[1]](https://www.washingtonpost.com/national/coronavirus-ravaged-florida-as-ron-desantis-sidelined-scientists-and-followed-trump/2020/07/25/0b8008da-c648-11ea-b037-f9711f89ee46_story.html) 
 
-disregarding public health measures [[1]](https://www.texastribune.org/2021/08/06/texas-greg-abbott-covid-restrictions/) 
+disregarding and sometimes outright banning public health measures [[1]](https://www.texastribune.org/2021/08/06/texas-greg-abbott-covid-restrictions/)[[1]](https://www.cbsnews.com/news/georgia-governor-brian-kemp-bans-city-face-mask-orders-coronavirus-pandemic/)
 
 and the prioritizement of the economy over peoples wellbeing [[1]](https://www.sciencedirect.com/science/article/pii/S0191886921002658). 
 
