@@ -12,6 +12,6 @@ ignoring health and medical professionals [[1]](https://www.nature.com/articles/
 
 disregarding public health measures [[1]](https://www.texastribune.org/2021/08/06/texas-greg-abbott-covid-restrictions/) 
 
-and the prioritizement of the economy over peoples wellbeing. 
+and the prioritizement of the economy over peoples wellbeing [[1]](Who prioritizes the economy over health? The role of political orientation and human values). 
 
 
