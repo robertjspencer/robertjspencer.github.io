@@ -14,11 +14,24 @@ This was surprising due to how Republicans have questionably handled the pandemi
 1. Does a state's population density correlate with its deaths:population ratio?
 2. Does a state's education level correlate with its deaths:population ratio?
 3. Does a state's income inequality correlate with its deaths:population ratio?
-4. Does a state's racial diversity correlate with its deaths:population ratio?
-5. Overall what are my thoughts?
+4. Overall what are my thoughts?
 
-In order to answer the questions above I've collected data necessary to answering these questions in
+In order to answer the questions above I queried every state's deaths:population ratio using the query below and exported into an excel file also containing each states population density (Population/sqkm), education ranking and income inequality [(Gini coefficient)](https://data.oecd.org/inequality/income-inequality.htm).
+```
+SELECT  state_info.state,
+        MAX(deaths) AS total_deaths,
+        population AS est_population_2021,
+        (MAX(deaths) * 1.0 / population) AS deaths_population_ratio,
+        governor,
+        political_party
+FROM state_info
+INNER JOIN us_counties_2022
+ON state_info.state = us_counties_2022.state
+GROUP BY state_info.state
+ORDER BY deaths_population_ratio DESC;
+```
 
+The result:
 
 ### Question 1 answer - Does a state's population density correlate with its deaths:population ratio?
 
