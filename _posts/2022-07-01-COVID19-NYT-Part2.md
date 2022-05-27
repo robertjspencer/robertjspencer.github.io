@@ -28,7 +28,7 @@ FROM state_info
 INNER JOIN us_counties_2022
 ON state_info.state = us_counties_2022.state
 GROUP BY state_info.state
-ORDER BY deaths_population_ratio DESC;
+ORDER BY state;
 ```
 
 The result:
