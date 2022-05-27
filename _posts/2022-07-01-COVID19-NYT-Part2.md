@@ -16,3 +16,5 @@ This was surprising due to how Republicans have questionably handled the pandemi
 3. Does a state's income inequality correlate with its deaths:population ratio?
 4. Does a state's racial diversity correlate with its deaths:population ratio?
 5. Overall what are my thoughts?
+
+### Question 1 answer - Does a state's population density correlate with its deaths:population ratio?
