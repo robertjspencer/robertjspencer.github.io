@@ -17,6 +17,9 @@ This was surprising due to how Republicans have questionably handled the pandemi
 4. Does a state's racial diversity correlate with its deaths:population ratio?
 5. Overall what are my thoughts?
 
+In order to answer the questions above I've collected data necessary to answering these questions in
+
+
 ### Question 1 answer - Does a state's population density correlate with its deaths:population ratio?
 
 EXPORT state and deaths_population_ratio into an excel sheet. Using excel calculate r value for all of these.
