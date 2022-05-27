@@ -16,7 +16,7 @@ This was surprising due to how Republicans have questionably handled the pandemi
 3. Does a state's income inequality correlate with its deaths:population ratio?
 4. Overall what are my thoughts?
 
-In order to answer the questions above I queried every state's deaths:population ratio using the query below and exported into an excel file also containing each states population density (Population/sqkm), education ranking and income inequality [(Gini coefficient)](https://data.oecd.org/inequality/income-inequality.htm).
+In order to answer the questions above I queried every state's deaths:population ratio using the query below and exported the results into an excel file also containing each states population density (Population/sqkm), education ranking and income inequality [(Gini coefficient)](https://data.oecd.org/inequality/income-inequality.htm).
 ```
 SELECT  state_info.state,
         MAX(deaths) AS total_deaths,
