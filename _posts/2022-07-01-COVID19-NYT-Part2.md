@@ -39,4 +39,5 @@ ORDER BY state;
 
 ### Question 1 answer - Does a state's population density correlate with its deaths:population ratio?
 
-Using the 
+Using state_info2.csv, I calculated the relationship between in excel ![image](https://user-images.githubusercontent.com/105367716/171204925-3118d3f8-64b1-48ff-b131-9bea1ceb6b6d.png)
+
