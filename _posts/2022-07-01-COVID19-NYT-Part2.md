@@ -16,7 +16,7 @@ This was surprising due to how Republicans have questionably handled the pandemi
 3. Does a state's education level correlate with its deaths:population ratio?
 5. Overall what are my thoughts?
 
-In order to answer the questions 1 and 2 above, using the query below, I queried every state's deaths:population ratio and exported the results into an .csv file also containing each states population density (population/km^2) and income inequality [(Gini coefficient)](https://data.oecd.org/inequality/income-inequality.htm). [Here](https://github.com/robertjspencer/robertjspencer.github.io/files/8805711/state_info2.csv.xlsx) is the .csv file.
+In order to answer the questions 1 and 2 above, using the query below, I queried every state's deaths:population ratio and exported the results into an .csv file also containing each states population density (population/km^2) and income inequality [(Gini coefficient)](https://data.oecd.org/inequality/income-inequality.htm).
 ```
 SELECT  state_info.state,
         MAX(deaths) AS total_deaths,
@@ -31,6 +31,7 @@ GROUP BY state_info.state
 ORDER BY state;
 ```
 
+[Here](https://github.com/robertjspencer/robertjspencer.github.io/files/8805711/state_info2.csv.xlsx) is the .csv file.
 ##### The population data was [retrieved from the United States Census Bureau](https://www.census.gov/data/tables/time-series/demo/popest/2020s-state-total.html#par_textimage). The population data used was the 2021 population estimate. 
 ##### The area data was [retrieved from the United States Census Bereau](https://www.census.gov/geographies/reference-files/2010/geo/state-area.html). The area data used was Land Sq. Km. 
 ##### The Gini coefficient data was [retrieved from the United States Census Bureau](https://data.census.gov/cedsci/table?q=Gini&g=0100000US_0400000US01,02,04,05,06,08,09,10,11,12,13,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31,32,33,34,35,36,37,38,39,40,41,42,44,45,46,47,48,49,50,51,53,54,55,56,72&tid=ACSDT1Y2019.B19083&moe=false&tp=true).
