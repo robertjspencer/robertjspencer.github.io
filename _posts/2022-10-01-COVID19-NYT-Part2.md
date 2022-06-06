@@ -1,4 +1,4 @@
-# SQL Project #1b. A deeper look
+# Project #1b. A deeper look
 
 In my [previous post](https://robertjspencer.github.io/2022/05/21/COVID19-NYT.html), I looked at COVID-19 data provided by The New York Times. If you haven't read it, I highly recommend reading it before continuing any further.
 
