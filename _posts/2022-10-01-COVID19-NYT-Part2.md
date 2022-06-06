@@ -44,10 +44,12 @@ Using state_info2.csv, I calculated the relationship between each state's deaths
 
 ![image](https://user-images.githubusercontent.com/105367716/172182618-f3060c24-9dcc-48ab-bd5a-c9064e69cda1.png)
 
-The resulting R value = 0.24. Meaning that there is a weak correlation between a state's population density and its death:population ratio. 
+The resulting R value = 0.24. Meaning that there is a weak correlation between a state's death:population ratio and population density. 
 
 ### Question 2 answer - 2. Does a state's income inequality correlate with its deaths:population ratio?
 
 Using state_info2.csv, I calculated the relationship between each state's death:population ratio and income inequality as seen below.
 
 ![image](https://user-images.githubusercontent.com/105367716/172182411-f01d982e-f9f7-49f5-99d9-86aba19a12a0.png)
+
+The resulting R value = 0.17. Meaning that there is a weak correlation between a state's death:population ratio and income inequality.
