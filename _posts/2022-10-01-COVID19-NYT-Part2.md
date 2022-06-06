@@ -44,3 +44,4 @@ Using state_info2.csv, I calculated the relationship between each state's deaths
 
 ![image](https://user-images.githubusercontent.com/105367716/172158980-c7519106-6daa-4723-9caf-c5a1c2d7eeec.png)
 
+The resulting R value = 0.24. Meaning that there is a weak correlation between a state's population density and its death:population ratio.
