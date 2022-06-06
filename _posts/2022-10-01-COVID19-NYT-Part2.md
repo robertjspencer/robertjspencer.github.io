@@ -16,7 +16,7 @@ This was surprising due to how Republicans have questionably handled the pandemi
 3. Does a state's education level correlate with its deaths:population ratio?
 5. Overall what are my thoughts?
 
-In order to answer the questions 1 and 2 above, using the query below, I queried and exported every state's deaths:population ratio into excel. I also collected each state's population density (population/km^2) and income inequality [(Gini coefficient)](https://data.oecd.org/inequality/income-inequality.htm).
+In order to answer the questions 1 and 2 above, using the query below, I queried and exported every state's deaths:population ratio into excel. I also collected each state's population density (population/sq. km.) and income inequality [(Gini coefficient)](https://data.oecd.org/inequality/income-inequality.htm).
 
 [Here is a link to the file - state_info2.csv](https://github.com/robertjspencer/robertjspencer.github.io/files/8805958/state_info2.csv.xlsx). The file also contains the answers to the questions above and is further discussed upon below.
 ```
