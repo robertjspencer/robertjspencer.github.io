@@ -42,5 +42,6 @@ ORDER BY state;
 
 Using state_info2.csv, I calculated the relationship between each state's deaths:population ratio and population density as seen below.
 
-![image](https://user-images.githubusercontent.com/105367716/171205375-a74d2885-c143-4641-8d06-87427871fe72.png)
+![image](https://user-images.githubusercontent.com/105367716/172158771-e3484429-2eac-4ae0-8a2c-349308487499.png)
+
 
