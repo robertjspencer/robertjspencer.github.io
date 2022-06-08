@@ -16,9 +16,9 @@ This was surprising due to how Republicans have questionably handled the pandemi
 3. Does a state's education level correlate with its deaths:population ratio?
 5. Overall what are my thoughts?
 
-In order to answer the questions 1 and 2 above, using the query below, I queried and exported every state's deaths:population ratio into excel. I also collected each state's population density (population/sq. km.) and income inequality [(Gini coefficient)](https://data.oecd.org/inequality/income-inequality.htm).
+In order to answer the questions above, I collected each state's death:population ratio, population density (population/sq. km.), income inequality [(Gini coefficient)](https://data.oecd.org/inequality/income-inequality.htm) and educational attainment level rates. [Here is a link to the file containing this data - state_info2.csv](https://github.com/robertjspencer/robertjspencer.github.io/files/8805958/state_info2.csv.xlsx). RENEW .CSV FILE
 
-[Here is a link to the file - state_info2.csv](https://github.com/robertjspencer/robertjspencer.github.io/files/8805958/state_info2.csv.xlsx). The file also contains the answers to the questions above and is further discussed upon below.
+Here is the SQL query I used to collect each states death:population ratio:
 ```
 SELECT  state_info.state,
         MAX(deaths) AS total_deaths,
@@ -51,6 +51,9 @@ The resulting R value = 0.24. Meaning that there is a weak correlation between a
 
 Using state_info2.csv, I calculated the relationship between each state's death:population ratio and income inequality as seen below.
 
-![image](https://user-images.githubusercontent.com/105367716/172182411-f01d982e-f9f7-49f5-99d9-86aba19a12a0.png)
+![image](https://user-images.githubusercontent.com/105367716/172182411-f01d982e-f9f7-49f5-99d9-86aba19a12a0.png) REDO REDO
 
 The resulting R value = 0.17. Meaning that there is a weak correlation between a state's death:population ratio and income inequality.
+
+### Question 2 answer - Does a state's income inequality correlate with its deaths:population ratio?
+
