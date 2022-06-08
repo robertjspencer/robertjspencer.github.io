@@ -36,6 +36,7 @@ ORDER BY state;
 ##### The population data was [retrieved from the United States Census Bureau](https://www.census.gov/data/tables/time-series/demo/popest/2020s-state-total.html#par_textimage). The population data used was the 2021 population estimate. 
 ##### The area data was [retrieved from the United States Census Bereau](https://www.census.gov/geographies/reference-files/2010/geo/state-area.html). The area data used was Land Sq. Km. 
 ##### The Gini coefficient data was [retrieved from the United States Census Bureau](https://data.census.gov/cedsci/table?q=Gini&g=0100000US_0400000US01,02,04,05,06,08,09,10,11,12,13,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31,32,33,34,35,36,37,38,39,40,41,42,44,45,46,47,48,49,50,51,53,54,55,56,72&tid=ACSDT1Y2019.B19083&moe=false&tp=true).
+##### The educational attainment data was [retrieved from the United States Census Bureau](https://web.archive.org/web/20210427151001if_/https://data.census.gov/cedsci/table?q=educational%20attainment&g=0100000US,.04000.001_0400000US72&tid=ACSST1Y2019.S1501&tp=true&hidePreview=true).
 
 
 ### Question 1 answer - Does a state's population density correlate with its deaths:population ratio?
