@@ -4,6 +4,16 @@ On the 7th of May 2022 I decided I wanted to pursue a career in analytics, after
 
 The aim of this portfolio is to show that I: am capable of analytical and critical thinking, have the soft skills necessary for the position, and am learning and using the technical skills required - hopefully to land a job in this field.
 
+Learned skills:
+- SQL
+- Excel & Google Sheets
+- Applied statistics
+
+Currently/planning on learning:
+- Power BI
+- R
+- Python
+
 ## A bit about me
 
 I work as a Community Health Services Administrator at St John New Zealand. I'm also in my final year as a student at The University of Waikato double majoring in both community health and human performance science, set to graduate this upcoming November.
