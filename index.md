@@ -10,7 +10,7 @@ Learned skills:
 - Applied statistics
 
 Currently/planning on learning:
-- Power BI
+- Tablueau or Power BI
 - R
 - Python
 
