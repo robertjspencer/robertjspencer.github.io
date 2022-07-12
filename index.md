@@ -1,7 +1,5 @@
 # Introduction
 
-On the 7th of May 2022 I decided I wanted to pursue a career in analytics, after starting an analysis project of Long COVID Facebook posts for one of my university courses, [CMYHE302 - 'Health in the Digital Era'](https://papers.waikato.ac.nz/papers/2022/CMYHE302), sparking my interest in the field.
-
 The aim of this portfolio is to show that I: am capable of analytical and critical thinking, have the soft skills necessary for the position, and am learning and using the technical skills required - hopefully to land a job in this field.
 
 Learned skills:
