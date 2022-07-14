@@ -8,7 +8,7 @@ Skills:
 - Applied statistics
 
 Currently/planning on learning:
-- Tablueau or Power BI
+- Tablueau
 - R
 - Python
 
