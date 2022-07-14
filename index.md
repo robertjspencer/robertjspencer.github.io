@@ -1,6 +1,6 @@
 # Introduction
 
-The aim of this portfolio is to show that I: am capable of analytical and critical thinking, have the soft skills necessary for the position, and am learning and using the technical skills required - hopefully to land a job in analytics eventually.
+The aim of this portfolio is to show that I: am capable of analytical and critical thinking, have the soft skills necessary for the position, and am learning and using the technical skills required—hopefully to land a job in analytics eventually.
 
 Skills:
 - SQL
