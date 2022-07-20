@@ -5,7 +5,7 @@ Analytics portfolio which I work on in my free time.
 Skills:
 - SQL
 - Excel & Google Sheets
-- Applied statistics
+- Data Analysis
 
 Currently/planning on learning:
 - Tablueau
