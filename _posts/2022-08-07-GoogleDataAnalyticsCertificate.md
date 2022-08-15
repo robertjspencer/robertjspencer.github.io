@@ -2,7 +2,7 @@
 
 Today I finally completed the Google Data Analytics Certificate which I started in June! 
 
-It's been a pleasure learning more about data analysis and relevant tools including Excel, SQL, Tableau and R. Now that I've completed this certificate, I'm looking forward to putting these skills in use over the next couple of months in some more projects.
+It's been a pleasure learning more about data analysis and relevant tools including Excel, SQL, Tableau and R. Now that I've completed this certificate, I'm looking forward to honing these skills over the next couple of months by doing some more projects.
 
 Thanks for reading! 
 
