@@ -8,4 +8,4 @@ Today I finally completed the Google Data Analytics Certificate which I started 
 Thanks for reading! 
 
 Cheers,
-Robert
+Robert.
