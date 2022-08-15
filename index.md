@@ -4,13 +4,15 @@ Analytics portfolio which I work on in my free time.
 
 Skills:
 - Data Analysis
+- Statistical Analysis
 - SQL
 - Excel & Google Sheets
-
-Currently/planning on learning:
-- Tablueau
+- Tableau
 - R
+
+Planning on learning:
 - Python
+- PowerBI
 
 ## A bit about me
 
