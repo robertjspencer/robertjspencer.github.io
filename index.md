@@ -1,6 +1,6 @@
 # Introduction
 
-Analytics portfolio which I work on in my free time.
+Analytics portfolio which I work on in my free time when I'm not at the gym or blundering a game of chess.
 
 Skills:
 - Data Analysis
@@ -13,6 +13,3 @@ Skills:
 Planning on learning:
 - Python
 - Power BI
-
-A bit about me: 
-I'm a weightlifting/fitness hobbyist who occassionally likes to terribly play chess.
