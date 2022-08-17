@@ -14,4 +14,5 @@ Planning on learning:
 - Python
 - Power BI
 
-A bit about me: I'm a weightlifting/fitness hobbyist who occassionally likes to terribly play chess.
+A bit about me: 
+I'm a weightlifting/fitness hobbyist who occassionally likes to terribly play chess.
