@@ -8,7 +8,3 @@ Skills:
 - Excel & Google Sheets
 - Tableau
 - R
-
-Planning on learning:
-- Python
-- Power BI
