@@ -8,3 +8,4 @@ Skills:
 - Excel & Google Sheets
 - Tableau
 - R
+- Python
