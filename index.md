@@ -7,5 +7,5 @@ Skills:
 - SQL
 - Excel & Google Sheets
 - Tableau
-- R
 - Python
+- R
