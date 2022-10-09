@@ -5,7 +5,7 @@ Analytics portfolio which I work on in my free time when I'm not at the gym or b
 Skills:
 - Data Analysis
 - SQL
-- Excel & Google Sheets
+- Excel, Google Sheets
 - Tableau
 - Python
 - R
