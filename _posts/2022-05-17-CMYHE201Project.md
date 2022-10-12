@@ -1,4 +1,4 @@
-## University of Waikato Course CMYHE201 - 'Healthy Lifestyles and Healthy Communities' - Health Promotion Campaign Project
+## University of Waikato Course CMYHE201 ('Healthy Lifestyles and Healthy Communities') - Health Promotion Campaign Project
 
 For [CMYHE201 - 'Healthy Lifestyles and Healthy Communities'](https://papers.waikato.ac.nz/papers/2021/CMYHE201), which I took B trimester 2021, we had to group with a partner and design and create a health promotion campaign. 
 
