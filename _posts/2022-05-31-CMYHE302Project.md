@@ -1,4 +1,4 @@
-## CMYHE302 - 'Health in the Digital Era' - Long Covid Analysis Project
+## University of Waikato Course CMYHE302 - 'Health in the Digital Era' - Long Covid Analysis Project
 
 I recently completed a qualitative analysis of collected long COVID social media posts for the course [CMYHE302-22A - 'Health in the Digital Era'](https://papers.waikato.ac.nz/papers/2022/CMYHE302).
 
