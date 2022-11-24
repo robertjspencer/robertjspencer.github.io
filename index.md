@@ -10,4 +10,4 @@ Skills:
 - Python
 - R
 
-NOTE: I am currently not updating this portfolio at the moment as I'm currently occupied with 161250 'Data Analytics' at Massey University (MU). Come February 2023 I will most likely be doing MU's Master of Analytics as well.
+NOTE: I am not updating this portfolio at the moment as I'm currently occupied with 161250 'Data Analytics' at Massey University (MU). Come February 2023 I will most likely be doing MU's Master of Analytics as well.
